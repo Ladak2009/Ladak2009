@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ladak2009
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning C++, JAVA
